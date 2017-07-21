@@ -1,0 +1,139 @@
+{
+  "Languages": [
+    {
+      "arSA": "Arabic"
+    },
+    {
+      "bgBG": "Bulgarian"
+    },
+    {
+      "csCZ": "Czech"
+    },
+    {
+      "daDK": "Danish"
+    },
+    {
+      "deDE": "German"
+    },
+    {
+      "elGR": "Greek"
+    },
+    {
+      "enGB": "English - GB"
+    },
+    {
+      "enUS": "English - US"
+    },
+    {
+      "esES": "Spanish - ES"
+    },
+    {
+      "esMX": "Spanish - MX"
+    },
+    {
+      "etEE": "Estonian"
+    },
+    {
+      "fiFI": "Finnish"
+    },
+    {
+      "frCA": "French - CA"
+    },
+    {
+      "frFR": "French - FR"
+    },
+    {
+      "hiIN": "Hindi"
+    },
+    {
+      "hrHR": "Croatian"
+    },
+    {
+      "huHU": "Hungarian"
+    },
+    {
+      "idID": "Indonesian"
+    },
+    {
+      "isIS": "Icelandic"
+    },
+    {
+      "itIT": "Italian"
+    },
+    {
+      "jaJP": "Japanese"
+    },
+    {
+      "koKR": "Korean"
+    },
+    {
+      "ltLT": "Lithuanian"
+    },
+    {
+      "lvLV": "Latvian"
+    },
+    {
+      "mkMK": "Macedonian"
+    },
+    {
+      "msMY": "Malay"
+    },
+    {
+      "mtMT": "Maltese"
+    },
+    {
+      "nbNO": "Norwegian"
+    },
+    {
+      "nlNL": "Dutch"
+    },
+    {
+      "plPL": "Polish"
+    },
+    {
+      "ptBR": "Portuguese - BR"
+    },
+    {
+      "ptPT": "Portuguese - PT"
+    },
+    {
+      "roRO": "Romanian"
+    },
+    {
+      "ruRU": "Russian"
+    },
+    {
+      "skSK": "Slovak"
+    },
+    {
+      "slSI": "Slovenian"
+    },
+    {
+      "sqAL": "Albanian"
+    },
+    {
+      "svSE": "Swedish"
+    },
+    {
+      "thTH": "Thai"
+    },
+    {
+      "trTR": "Turkish"
+    },
+    {
+      "ukUA": "Ukrainian"
+    },
+    {
+      "viVN": "Vietnamese"
+    },
+    {
+      "zhCHS": "Chinese - CHS"
+    },
+    {
+      "zhCHT": "Chinese - CHT"
+    },
+    {
+      "zhCH": "Chinese - CH"
+    }
+  ]
+}

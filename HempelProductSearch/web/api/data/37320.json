@@ -1,0 +1,261 @@
+{
+  "Code": "15780",
+  "BaseCode": "15789",
+  "BaseName": "Liquid",
+  "CAName": "HEMPEL’S ZINC METAL PIGMENT",
+  "CACode": "97170",
+  "Finish": "Flat",
+  "FlashPointMeasured": [
+    {
+      "Metric": "Celsius",
+      "Value": 14.0,
+      "DefaultMetric": true
+    },
+    {
+      "Metric": "Fahrenheit",
+      "Value": 57.2,
+      "DefaultMetric": false
+    }
+  ],
+  "FullyCured": null,
+  "MixRatioByVolume3rd": null,
+  "MixRatioByVolumeBase": "8.0000",
+  "MixRatioByVolumeCA": "2.0000",
+  "Name": "HEMPEL'S GALVOSIL",
+  "PotLife": "4.0000",
+  "PreferredAppMethod": "Airless Spraying",
+  "QLQualityDescription": "HEMPEL'S GALVOSIL",
+  "QLRecommendedUseForPDS": null,
+  "Features": null,
+  "Responsibility": "Corporate",
+  "ServiceTempDryMax": [
+    {
+      "Metric": "Celsius",
+      "Value": 400.0,
+      "DefaultMetric": true
+    },
+    {
+      "Metric": "Fahrenheit",
+      "Value": 752.0,
+      "DefaultMetric": false
+    }
+  ],
+  "ServiceTempDryMin": [
+    {
+      "Metric": "Celsius",
+      "Value": -50.0,
+      "DefaultMetric": true
+    },
+    {
+      "Metric": "Fahrenheit",
+      "Value": -58.0,
+      "DefaultMetric": false
+    }
+  ],
+  "SurfaceDry": null,
+  "ThirdComponentCode": null,
+  "ThirdComponentName": null,
+  "Documents": [
+    {
+      "Id": "55fbee7008ab90f10001",
+      "Languages": "ptBR;svSE;enGB;hrHR;csCZ;daDK;nlNL;fiFI;frFR;deDE;elGR;huHU;nbNO;plPL;ptPT;ruRU;skSK;esES;esMX;trTR;itIT;zhCHS",
+      "Name": "1578019840PDS",
+      "Type": "PDS"
+    },
+    {
+      "Id": "4fa1cdf3ba43114c0001",
+      "Languages": "zhCHS;enUS;enUS",
+      "Name": "1578019840SDS",
+      "Type": "SDS"
+    },
+    {
+      "Id": "516f51f6499210a20001",
+      "Languages": "enUS;enUS",
+      "Name": "157801V810SDS",
+      "Type": "SDS"
+    },
+    {
+      "Id": "50eabfc1149b64dc0001",
+      "Languages": "deDE;plPL;daDK;zhCHS;itIT;huHU;trTR;hrHR;skSK;ptPT;enGB;frFR",
+      "Name": "1578019840AI",
+      "Type": "AI"
+    }
+  ],
+  "Shades": [
+    {
+      "ShadeCode": "1578019840",
+      "SpecificGravity": "2.4004",
+      "VOC": "608",
+      "VolumeSolid": "62.0000",
+      "Image": {
+        "FileId": "431",
+        "Filename": "19840.png",
+        "MimeType": "image/png"
+      }
+    },
+    {
+      "ShadeCode": "157801984Z",
+      "SpecificGravity": "2.4001",
+      "VOC": "608",
+      "VolumeSolid": "62.0000",
+      "Image": null
+    },
+    {
+      "ShadeCode": "1578019890",
+      "SpecificGravity": "2.4620",
+      "VOC": "611",
+      "VolumeSolid": "62.0000",
+      "Image": null
+    },
+    {
+      "ShadeCode": "157801V810",
+      "SpecificGravity": "2.2844",
+      "VOC": "626",
+      "VolumeSolid": "32.9800",
+      "Image": null
+    },
+    {
+      "ShadeCode": "1578042200",
+      "SpecificGravity": "2.3993",
+      "VOC": "608",
+      "VolumeSolid": "62.0000",
+      "Image": null
+    }
+  ],
+  "Image": {
+    "FileId": "894",
+    "Filename": "QualityDefaultImage.png",
+    "MimeType": "image/png"
+  },
+  "MarComDocuments": [
+    {
+      "FileId": "897",
+      "FileName": "Shopprimers Brochure_Corp_2012.pdf",
+      "MimeType": "application/pdf",
+      "Name": "Shopprimers Brochure Corp 2012",
+      "MarComDescription": "Corporate Brochure for HEMPEL'S SHOPPRIMER ZS 15820, ZS 15890, E 15280. E 15275",
+      "MarComFileType": null,
+      "MarcomLanguage": null,
+      "MarcomMainSegments": "10;20;30",
+      "MarcomSegments": "100;399;320;318;317;316;315;314;313;312;311;200;120;110;319",
+      "MarcomSubSegments": "10010;12010;11040;11030;11020;11010;10100;10090;10080;10070;10060;10050;10040;10030;10020;20010;20020;30020;30170;30160;30150;30140;30130;30120",
+      "MarcomMainRegions": "regionEurope;regionMeWest;regionNorthAmerica;regionNorthAsia;regionSouthEastAsia;regionSouthAmerica",
+      "MarcomResponsibleSteward": "CHRW",
+      "MarComTradeCode": null,
+      "MarComType": "marcom4"
+    },
+    {
+      "FileId": "898",
+      "FileName": "Shopprimers Brochure_Corp_2012.pdf",
+      "MimeType": "application/pdf",
+      "Name": "Product Information Sheet Shopprimer E 15275",
+      "MarComDescription": "Corporate Brochure for HEMPEL'S SHOPPRIMER ZS 15820, ZS 15890, E 15280. E 15275",
+      "MarComFileType": null,
+      "MarcomLanguage": null,
+      "MarcomMainSegments": "30",
+      "MarcomSegments": "100;399;320;318;317;316;315;314;313;312;311;200;120;110;319",
+      "MarcomSubSegments": null,
+      "MarcomMainRegions": "regionEurope;regionMeWest;regionNorthAmerica;regionNorthAsia;regionSouthEastAsia;regionSouthAmerica",
+      "MarcomResponsibleSteward": "CHRW",
+      "MarComTradeCode": null,
+      "MarComType": "marcom9"
+    },
+    {
+      "FileId": "894",
+      "FileName": "Shopprimers Brochure_Corp_2012.pdf",
+      "MimeType": "application/pdf",
+      "Name": "Shopprimers Brochure Corp 2012",
+      "MarComDescription": "Corporate Brochure for HEMPEL'S SHOPPRIMER ZS 15820, ZS 15890, E 15280. E 15275",
+      "MarComFileType": null,
+      "MarcomLanguage": null,
+      "MarcomMainSegments": "10;20;30",
+      "MarcomSegments": "100;399;320;318;317;316;315;314;313;312;311;200;120;110;319",
+      "MarcomSubSegments": "10010;12010;11040;11030;11020;11010;10100;10090;10080;10070;10060;10050;10040;10030;10020;20010;20020;30020;30170;30160;30150;30140;30130;30120",
+      "MarcomMainRegions": "regionEurope;regionMeWest;regionNorthAmerica;regionNorthAsia;regionSouthEastAsia;regionSouthAmerica",
+      "MarcomResponsibleSteward": "CHRW",
+      "MarComTradeCode": null,
+      "MarComType": "marcom4"
+    },
+    {
+      "FileId": "891",
+      "FileName": "Shopprimers Brochure_Corp_2012.pdf",
+      "MimeType": "application/pdf",
+      "Name": "Product Information Sheet Shopprimer E 15275",
+      "MarComDescription": "Corporate Brochure for HEMPEL'S SHOPPRIMER ZS 15820, ZS 15890, E 15280. E 15275",
+      "MarComFileType": null,
+      "MarcomLanguage": null,
+      "MarcomMainSegments": "30",
+      "MarcomSegments": "100;399;320;318;317;316;315;314;313;312;311;200;120;110;319",
+      "MarcomSubSegments": null,
+      "MarcomMainRegions": "regionEurope;regionMeWest;regionNorthAmerica;regionNorthAsia;regionSouthEastAsia;regionSouthAmerica",
+      "MarcomResponsibleSteward": "CHRW",
+      "MarComTradeCode": null,
+      "MarComType": "marcom9"
+    }
+  ],
+  "BaseDocuments": [
+    {
+      "Id": "54d1cfb8dd6e16360001",
+      "Languages": "enUS;frCA;enUS;esMX",
+      "Name": "1578904670SDS",
+      "Type": "SDS"
+    },
+    {
+      "Id": "4da7e5868bb2c5460001",
+      "Languages": "enUS;zhCHT;enUS;enUS;jaJP;enUS;koKR;zhCHS;viVN;enUS;zhCHS;enUS;enUS;viVN;enUS;nbNO;svSE;fiFI;itIT;enUS;hrHR;enUS;enUS;zhCH;zhCH;enUS;enUS;ptPT;esES;esES;enGB;koKR;enUS;zhCH;msMY;enUS;idID;enUS;enUS;viVN;ptPT;enUS;esMX;enUS;nlNL;frFR;esMX;jaJP;enUS;frCA;deDE;frFR;plPL;enUS;huHU;enUS;ruRU;enUS;nlNL;frFR;csCZ;elGR;skSK;trTR;deDE;enUS;frFR;enUS;enUS;svSE;enUS;enUS;enUS;esES;esES;enUS;enUS;daDK",
+      "Name": "1578919840SDS",
+      "Type": "SDS"
+    },
+    {
+      "Id": "52203ee7dc528eb10001",
+      "Languages": "enUS;zhCHS;enGB;trTR;enUS;daDK;enUS;zhCH;frCA;enUS;esMX;enUS;koKR;enUS;zhCH;msMY;enUS;idID;enUS;viVN;enUS;enUS;enUS;enUS",
+      "Name": "157891984ZSDS",
+      "Type": "SDS"
+    },
+    {
+      "Id": "52203ef1dc80b4d70001",
+      "Languages": "enUS;zhCHS;enUS;esES;zhCH;enUS;enGB;enUS;esMX;enUS;frCA;plPL;enUS;huHU;enUS;nlNL;frFR;csCZ;elGR;skSK;trTR;enUS",
+      "Name": "1578919890SDS",
+      "Type": "SDS"
+    },
+    {
+      "Id": "52303741eaa1af660001",
+      "Languages": "enUS;enUS;enUS;enUS",
+      "Name": "157891V810SDS",
+      "Type": "SDS"
+    },
+    {
+      "Id": "52203ef9dcb2d7240001",
+      "Languages": "enUS;zhCHS;enUS;esES;zhCH;enUS;enGB;enUS;esMX;enUS;frCA;plPL;enUS;nlNL;frFR;elGR;trTR;enUS",
+      "Name": "1578942200SDS",
+      "Type": "SDS"
+    }
+  ],
+  "CaDocuments": [
+    {
+      "Id": "4dc0cfeae37e0b050001",
+      "Languages": "enUS;jaJP;enUS;idID;viVN;enUS;enUS;enUS;zhCH;enUS;koKR;zhCH;enUS;msMY;viVN;enUS;enUS;enUS;frCA;enUS;enUS;idID;enUS;enUS;zhCH;zhCH;enUS;enUS;esES;ptPT;esES;esES;enUS;msMY;zhCH;enUS;koKR;enUS;viVN;enUS;esMX;jaJP;esES;enUS",
+      "Name": "9717000000SDS",
+      "Type": "SDS"
+    },
+    {
+      "Id": "5232c54bfa2685110001",
+      "Languages": "enUS;enUS;enUS;msMY;enUS;frCA;itIT;ptPT;hrHR;enUS;enUS;enUS;zhCH;ptPT;esES;esES;enGB;enUS;esMX;enUS;koKR;enUS;zhCH;msMY;enUS;idID;enUS;viVN;enUS;deDE;enUS;deDE;frFR;plPL;enUS;huHU;enUS;ruRU;lvLV;enUS;ruRU;enUS;nlNL;frFR;bgBG;csCZ;etEE;elGR;ltLT;enUS;nlNL;frFR;enUS;roRO;skSK;trTR;frFR;enUS;svSE;enUS;enUS;nbNO;esES;svSE;fiFI;enUS;daDK;enUS;esES",
+      "Name": "9717008770SDS",
+      "Type": "SDS"
+    },
+    {
+      "Id": "5232c552fa2ca0f50001",
+      "Languages": "enUS;enUS;enUS;nbNO;svSE;enUS;svSE;fiFI;enUS;frCA;ptPT;enUS;enUS;enUS;idID;enUS;enUS;zhCH;zhCH;enUS;esES;ptPT;esES;esES;enGB;enUS;msMY;zhCH;enUS;koKR;enUS;viVN;enUS;esMX;plPL;enUS;huHU;enUS;ruRU;lvLV;enUS;ruRU;enUS;nlNL;frFR;bgBG;csCZ;etEE;elGR;ltLT;enUS;nlNL;frFR;enUS;roRO;skSK;trTR;esES;frFR;enUS;enUS;daDK;enUS;esES",
+      "Name": "97170XXXX0SDS",
+      "Type": "SDS"
+    },
+    {
+      "Id": "4e3635d15831f64d0001",
+      "Languages": "enUS;idID;viVN;zhCH;koKR;enUS;koKR;zhCH;enUS;enUS;enUS;msMY;enUS;nbNO;svSE;fiFI;enUS;idID;enUS;enUS;msMY;ptPT;slSI;hrHR;enGB;plPL;enUS;huHU;enUS;ruRU;lvLV;enUS;ruRU;enUS;nlNL;frFR;bgBG;csCZ;etEE;elGR;ltLT;enUS;nlNL;frFR;enUS;roRO;skSK;trTR;frFR;enUS;svSE;enUS;enUS;enUS;enUS;daDK;enUS;esES",
+      "Name": "97170XXXXXSDS",
+      "Type": "SDS"
+    }
+  ],
+  "TcDocuments": []
+}

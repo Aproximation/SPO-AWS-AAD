@@ -1,0 +1,262 @@
+@import "../assets/font-awesome-4.7.0/scss/font-awesome";
+@import "vars";
+@import "buttons";
+@import "grid";
+@import "card";
+@import "layout";
+
+* {
+  box-sizing: border-box;
+}
+
+#pageTitle{
+  display:none;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0;
+  font-weight: 400;
+}
+
+p {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+  color: #454545;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #eeeeee;
+}
+
+.page-container {
+  max-width: 1024px;
+  margin: 0 auto 64px;
+}
+
+header {
+  display: flex;
+  height: 200px;
+  background-color: #0033a0;
+  background: #0033a0;
+  background: -webkit-linear-gradient(to bottom, #0076cf, #0033a0); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #0076cf, #0033a0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  margin: 0 4px 4px 4px;
+  //box-shadow: 0 2px 4px rgba(0, 0, 0, 0.20);
+}
+
+.header-content {
+  margin: auto;
+  text-align: center;
+  h1 {
+    padding: 16px;
+    border-top: 1px solid #00345b;
+    border-bottom: 1px solid #00345b;
+    color: white;
+  }
+  h3 {
+    color: #8fccff;
+    //background-color: #e31c79;
+    padding: 6px;
+  }
+}
+
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 4px;
+  &.space-around {
+    justify-content: space-around;
+  }
+  &.padding {
+    padding: 32px;
+  }
+}
+
+.grid-item-50 {
+  min-height: 300px;
+  width: calc(50% - 8px);
+  margin: 4px;
+  min-width: 376px;
+  @media (max-width: 768px) {
+    width: 100%;
+    min-width: 300px;
+    min-height: 0;
+  }
+}
+
+.grid-item-33 {
+  width: calc(33.3333% - 8px);
+  margin: 4px;
+  &.card-blue {
+    background: $primary-color-medium;
+    color: white;
+  }
+  @media (max-width: 768px) {
+    width: 100%;
+    min-width: 300px;
+    min-height: 0;
+  }
+  .inner {
+    min-height: 160px;
+    padding: 16px 16px 8px 16px;
+    p {
+      color: #d2dbff;
+      font-size: 14px;
+    }
+  }
+  .card-title {
+  }
+  .lang {
+    font-size: 14px;
+    color: #54cfff;
+    margin: 4px 0 10px 0;
+  }
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    text-align: end;
+    padding: 0 8px;
+    //border-top: 1px solid #eeeeee;
+    .fa {
+      padding: 0 16px;
+      display: block;
+      height: 40px;
+      text-align: center;
+      font-size: 20px;
+      line-height: 40px;
+      color: $primary-color-dark;
+      cursor: pointer;
+      transition: all 300ms;
+      &:hover {
+        color: white;
+        transform: scale(1.2);
+      }
+    }
+  }
+}
+
+.row {
+  width: 100%;
+  margin: 0 4px;
+  min-width: 376px;
+  @media (max-width: 768px) {
+    width: 100%;
+    min-width: 300px;
+    min-height: 0;
+  }
+}
+
+.table {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 32px;
+  .desc {
+    width: 50%;
+    padding: 12px;
+    small {
+      color: #878787;
+      font-size: 12px;
+    }
+  }
+}
+
+.cell {
+  display: flex;
+  align-items: center;
+  width: 50%;
+  height: 50px;
+  padding: 8px 0;
+  border-bottom: 1px solid #eeeeee;
+  &:last-child {
+    border: none;
+  }
+  @media (max-width: 768px) {
+    width: 100%;
+    min-width: 300px;
+  }
+  h3,
+  p,
+  .two-lines {
+    flex: 1;
+    color: #454545;
+  }
+  p, .two-lines {
+    margin-right: 22px;
+    font-size: 14px;
+    text-align: end;
+
+  }
+  h3 {
+    margin-left: 22px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 6px;
+  .filter {
+    padding: 16px;
+    border: 1px solid white;
+    color: #646464;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: #eeeeee;
+    transition: all 300ms;
+    &:hover {
+      background-color: #009fdf;
+      color: white;
+    }
+    &.active {
+      background-color: #009fdf;
+      color: white;
+    }
+  }
+}
+
+.color-img {
+  display: flex;
+  height: 80px;
+  .fa {
+    margin: auto;
+    font-size: 20px;
+  }
+  &.color-1 {
+    background-color: #9fd8e3;
+  }
+}
+
+.shade-footer {
+  display: flex;
+  border-top: 1px solid #eeeeee;
+  p {
+    flex: 1;
+    padding: 16px;
+    font-size: 18px;
+  }
+  .meta-text {
+    opacity: 0.5;
+  }
+  .fa {
+    padding: 16px 32px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #c4bcb7;
+    transition: all 300ms;
+    &:hover {
+      color: black;
+      transform: scale(1.2);
+    }
+  }
+}
+
+.pie-chart {}

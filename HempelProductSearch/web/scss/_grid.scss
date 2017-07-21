@@ -1,0 +1,26 @@
+$gap: 4px;
+$grid-item-min-width: 300px;
+
+
+.grid-2c {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  border-top: 1px solid #eeeeee;
+  > .grid-item {
+    width: calc(50% - #{$gap * 2});
+    @media (max-width: 768px) {
+      width: 100%;
+      min-width: $grid-item-min-width;
+      min-height: 0;
+    }
+  }
+}
+
+.grid-item {
+  margin: $gap;
+  min-width: 376px;
+  &.min-height {
+    min-height: 300px;
+  }
+}

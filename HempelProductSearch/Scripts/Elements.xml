@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\ClientPart.js" Url="Scripts/ClientPart.js" ReplaceContent="TRUE" IgnoreIfAlreadyExists="TRUE"/>
+    <File Path="Scripts\adal.js" Url="Scripts/adal.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
