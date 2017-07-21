@@ -3,7 +3,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace WebApplication4.Controllers
+namespace WebService.Controllers
 {
     public class ProvisionController : ApiController
     {

@@ -2,7 +2,7 @@
 using System.Web.Http.Filters;
 using System.Web.Mvc;
 
-namespace WebApplication4
+namespace WebService
 {
     public class FilterConfig
     {

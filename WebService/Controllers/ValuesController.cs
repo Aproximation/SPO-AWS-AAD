@@ -3,7 +3,7 @@ using System.Linq;
 using System.Web.Http;
 using System.Web.Http.Cors;
 
-namespace WebApplication4.Controllers
+namespace WebService.Controllers
 {
     public class ValuesController : ApiController
     {

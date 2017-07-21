@@ -1,6 +1,6 @@
 ﻿using System.Web.Mvc;
 
-namespace WebApplication4.Controllers
+namespace WebService.Controllers
 {
     public class HomeController : Controller
     {
