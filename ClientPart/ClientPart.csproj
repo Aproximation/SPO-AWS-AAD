@@ -6,8 +6,8 @@
     <ProjectGuid>{729BA7F4-7C1C-4BE3-8F48-19590932C5F4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HempelProductSearch</RootNamespace>
-    <AssemblyName>HempelProductSearch</AssemblyName>
+    <RootNamespace>ClientPart</RootNamespace>
+    <AssemblyName>ClientPart</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <TargetOfficeVersion>16.1</TargetOfficeVersion>
     <FileAlignment>512</FileAlignment>
